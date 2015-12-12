@@ -17,6 +17,8 @@ repositories {
 dependencies {
   compile 'org.assertj:assertj-core:2.0.0'
 
+  compile 'org.reflections:reflections:0.9.10'
+
   testCompile 'org.testng:testng:6.9.9'
 }
 
